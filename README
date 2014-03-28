@@ -1,0 +1,9 @@
+Original repo is
+http://git.insignal.co.kr/insignal/arndale_octa-jb_mr1.1/android/hardware/samsung_slsi/openmax/?h=arndale_octa-jb_mr1.1
+
+I'm trying to port CyanogenMod 11.0 to Samsung Galaxy Note 3 (SM-N900)
+
+This repo needs to be merged with CyanogenMod's android_hardware_samsung_slsi_openmax.
+
+But they has some differences (conflicts) and I skipped merge for some time.
+Original CM repo didn't work for me.
